@@ -1,3 +1,3 @@
-module github.com/gptscript-ai/chat-completion-client
+module github.com/obot-platform/chat-completion-client
 
-go 1.22.2
+go 1.26.3
